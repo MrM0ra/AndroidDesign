@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidDesign</string>
+    <string name="main_title">Mi super juego</string>
+    <string name="main_button_play">Jugar</string>
+    <string name="main_button_records">Records</string>
+    <string name="main_button_instructions">Instrucciones</string>
+    <string name="created_by">Creado por: Victor Mora</string>
+</resources>

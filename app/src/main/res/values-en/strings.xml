@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidDesign</string>
+    <string name="main_title">Awesome game</string>
+    <string name="main_button_play">Play</string>
+    <string name="main_button_records">Records</string>
+    <string name="main_button_instructions">Instructions</string>
+    <string name="created_by">Created by: Victor Mora</string>
+</resources>
